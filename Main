@@ -39,6 +39,9 @@ def files_selection():
                 fields_display.tag_config("clickable", foreground="blue", underline=True)
                 fields_display.tag_bind("clickable", "<Button-1>", on_field_click)
                 fields_display.config(state=tk.DISABLED)
+                fields_picked_display.config(state=tk.NORMAL)
+                fields_picked_display.delete("1.0", tk.END)
+                fields_picked_display.config(state=tk.DISABLED)
 
 def on_field_click(event):
     index = fields_display.index(f"@{event.x},{event.y}")
