@@ -3,6 +3,7 @@ A small tool to merge and combine several CSV files into one CSV file.
 
 It keeps duplicate rows, but it does filter out duplicate column headers if they share the exact same header name.
 
+It accepts Arabic CSV data too, was originally built for that.
 
 --------------- How To Use The Tool: ---------------
 ----------------------------------------------------
