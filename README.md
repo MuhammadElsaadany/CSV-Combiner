@@ -11,7 +11,7 @@ A small tool to merge and combine several CSV files into one CSV file.
 3- Press the "3- Start Combining!" button.
 
 ----------------------------------------------------
--------------- Functions Of The Tool: --------------
+--------------- Functions Of The Tool: ---------------
 ----------------------------------------------------
 - Keeps duplicate rows.
 - Filters out duplicate headers.
