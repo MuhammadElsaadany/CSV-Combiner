@@ -1,5 +1,5 @@
 # CSV-Combiner
-A small tool to merge and combine several CSV files into one CSV file.
+A small tool to merge and combine several CSV files into one CSV file. (Supports Arabic)
 
 ----------------------------------------------------
 --------------- How To Use The Tool: ---------------
